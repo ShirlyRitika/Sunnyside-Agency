@@ -1,0 +1,193 @@
+body{
+    width: 1000px;
+    margin: auto;
+}
+.logo{
+    height: 27px;
+    width: 80px;
+    padding-left: 5px;
+}
+.bottom{
+     background-image: url(./images/mobile/image-header.jpg);
+        height: 400px;
+        width: 780px;
+        padding-top: 10px;
+}
+
+nav{
+    color: white;
+    font-size: small;
+    display: contents;
+    padding-left: 210px;
+    justify-content: end;
+}
+.navigate{
+    padding-left: 380px;
+    word-spacing: 20px;
+    justify-content: space-evenly;
+}
+.contact{
+    border: 1px solid white;
+    height: 25px;
+    width: 120px;
+    color: blue;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.we{
+    color: white;
+    word-spacing: 1px;
+    font-family: cursive;
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.arrow{
+    width: 25px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-left: 450px;
+    z-index: inherit;
+}
+.orange{
+   padding-left: 270px;
+    width: 400px;
+    height: 180px;
+    justify-content: center;
+    align-items: center;
+}
+
+.egg{
+    width: 380px;
+    float:right;
+}
+.transform{
+    width: 343px;
+    float: left;
+    
+}
+.second-division{
+    text-align: end;
+    padding-top: 10px;
+    padding-right:5px ;
+}
+
+.first-division{
+     padding-top: 10px;
+     padding-bottom: 0px;
+}
+
+.photo{
+    flex-wrap: wrap;
+    display: flex;
+    width: auto;
+    gap: 0px;
+    
+}
+
+.center{
+    text-align: center;
+    padding: 5px;
+}
+.third-division{
+    text-align: flex-start;
+    padding-left: 10px;
+}
+.cherry{
+    float: left;
+    width: 360px;
+}
+
+.Photography{
+    width: 360px;
+    height: 300px;
+    float: right;
+}
+
+.client{
+    gap: 1px;
+    color: gray;
+    word-spacing: 1px;
+    text-align: center;
+}
+
+.comment{
+    border-radius: 50px;
+    width: 60px;
+}
+.test-image{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    color: gray;
+    font-weight: bolder;
+    gap: 80px;
+    text-align: center;
+    padding-right: 50px;
+}
+
+.overall{
+    display: flex;
+}
+
+.new{
+    height: 245px;
+}
+.fruit{
+    height: 245px;
+}
+.cone{
+    height: 245px;
+}
+.cube{
+    height: 245px;
+}
+
+.sunny{
+    text-align: center;
+    font-weight: bolder;
+    word-spacing: 0.5px;
+    font-family: fantasy;
+    color: rgb(8, 167, 159);
+    padding-top: 10px;
+}
+
+.hum{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    background-color: rgb(56, 209, 201);
+    width: 800px;
+}
+
+.footer nav{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(8, 153, 153);
+    gap: 100px;
+    padding-left: 440px;
+    word-spacing: 20px;
+    justify-content: space-evenly;
+}
+
+.footerimage{
+    gap: 80px;
+}
+
+.jennie-para{
+    font-size: 10px;
+}
+
+.thomas-para{
+    font-size: 10px;
+}
+
+.emily-para{
+    font-size: 10px;
+}
